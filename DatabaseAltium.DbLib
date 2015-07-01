@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Suporte\
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,17 +19,20 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Connectors
+LastFocusedTable=Resistors
 [Table1]
 SchemaName=
 TableName=Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Código0=61|Library path0=84|Footprint0=72|PackageReference0=116
 [Table2]
+SchemaName=
+TableName=Circuito_Protecao
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
 SchemaName=
 TableName=Connectors
 Enabled=True
@@ -37,8 +40,8 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Footprint Path0=160|Footprint Ref0=92|Código0=61|Library path0=160|Footprint0=72|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|Manufacturer Part Number0=160|RoHS0=51|Description 10=309|Stock 10=60|Pricing 10=298|Rated Voltage0=96|Rated Current0=95|Wire Size AWG Min0=122|Wire Size AWG Max0=123|Conductor Area CSA0=127|Pitch Spacing0=92|Wire Connection Method0=154|ComponentLink1URL0=243|ComponentLink1Description0=243
-[Table3]
+BrowserOrder_Visible=Library Ref0=112|Footprint Path0=160|Footprint Ref0=92|Código0=61|Library path0=160|Footprint0=72|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|Manufacturer Part Number0=160|RoHS0=51|Description 10=309|Stock 10=60|Pricing 10=298|Rated Voltage0=96|Rated Current0=95|Wire Size AWG Min0=122|Wire Size AWG Max0=123|Conductor Area CSA0=127|Pitch Spacing0=92|Wire Connection Method0=154|ComponentLink1URL0=243|ComponentLink1Description0=243|Category 10=100|Connector Type0=100|Gender0=100|Plug/Mating Plug Diameter0=100|Number of Positions/Contacts0=100|Internal Switch(s)0=100|Mounting Type0=100|Termination0=100|Shielding0=100|Features0=100|Color0=100|Voltage - Rated0=100|Current Rating0=100|Contact Material0=100|Contact Material - Plating0=100|Housing Color0=100|Housing Material0=100|Operating Temperature0=100|ComponentLink2URL0=100|ComponentLink2Description0=100
+[Table4]
 SchemaName=
 TableName=Diode
 Enabled=True
@@ -46,25 +49,22 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Código0=61|Library path0=160|Library Ref0=77|Footprint0=72|Footprint Path0=160|Footprint Ref0=92|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=116|Manufacturer Part Number0=160|RoHS0=92|Description 10=188|Category 10=177|Stock 10=60|Pricing 10=374|Packaging0=76|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io)0=180|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=214|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Capacitance @ Vr, F0=125|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|Operating Temperature - Junction0=197|ComponentLink1URL0=343|ComponentLink1Description0=343
-[Table4]
+BrowserOrder_Visible=Código0=61|Library path0=160|Library Ref0=77|Footprint Path0=160|Footprint Ref0=92|Footprint0=72|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=132|Manufacturer Part Number0=160|RoHS0=92|Description 10=188|Category 10=177|Stock 10=60|Pricing 10=623|Packaging0=76|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io)0=180|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=214|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Capacitance @ Vr, F0=125|Mounting Type0=101|Package / Case0=128|Supplier Device Package0=147|Operating Temperature - Junction0=197|ComponentLink1URL0=343|ComponentLink1Description0=343|Tolerance0=72|Power - Max0=86|Impedance (Max) (Zzt)0=133|Operating Temperature0=143|Diode Configuration0=100|Current - Average Rectified (Io) (per Diode)0=100
+[Table5]
 SchemaName=
 TableName=ICs
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Código0=66|Library path0=160|Library Ref0=136|Footprint0=72|Footprint Path0=160|Footprint Ref0=92|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=158|Manufacturer Part Number0=160|RoHS0=115|Description 10=428|Category 10=127|Stock 10=60|Pricing 10=623|Packaging0=76|Regulator Topology0=125|Voltage - Output0=111|Current - Output0=110|Voltage - Dropout (Typical)0=160|Number of Regulators0=137|Voltage - Input0=101|Current - Limit (Min)0=125|Operating Temperature0=143|Mounting Type0=101|Package / Case0=99|Supplier Device Package0=147|ComponentLink1URL0=303|ComponentLink1Description0=303|Output Current0=103|Linear Regulator Case Style0=162|Operating Temperature Min0=166|Input Voltage Min0=117|Input Voltage Max0=118
-[Table5]
+[Table6]
 SchemaName=
 TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=[Código] = '{Código}'
-BrowserOrder_Sorting=
+BrowserOrder_Sorting=Description 10=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Library path0=160|Library Ref0=77|Código0=84|Footprint Ref0=92|Footprint Path0=160|Footprint0=84|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=182|Manufacturer Part Number0=160|RoHS0=92|Description 10=180|Category 10=78|Stock 10=60|Pricing 10=447|Packaging0=90|Resistance (Ohms)0=116|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=199|Temperature Coefficient0=146|Operating Temperature0=143|Package / Case0=100|Supplier Device Package0=147|Size / Dimension0=201|Height0=87|Number of Terminations0=147|ComponentLink1URL0=507|ComponentLink1Description0=507|Operating Temperature Range0=179|Power Rating0=92|Product0=63|Resistance0=77|Series0=53|Type0=46|Voltage Rating0=100|Brand0=54|Case Code - in0=97|Case Code - mm0=105|Case Height0=85|Case Length0=86|Case Width0=82|Product Category0=112|Standard Pack Qty0=117|RoHS - Mouser0=100|Minimum Order Quantity0=152|Reeling0=62|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 20=182|Description 20=174|Category 20=78|Stock 20=60|Pricing 20=447|ComponentLink2URL0=506|ComponentLink2Description0=506
+BrowserOrder_Visible=Library path0=160|Library Ref0=77|Código0=113|Footprint Ref0=92|Footprint Path0=160|Footprint0=84|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=215|Manufacturer Part Number0=160|RoHS0=164|Description 10=259|Category 10=141|Stock 10=60|Pricing 10=599|Packaging0=90|Resistance (Ohms)0=116|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=199|Temperature Coefficient0=146|Operating Temperature0=143|Package / Case0=100|Supplier Device Package0=147|Size / Dimension0=201|Height0=87|Number of Terminations0=147|ComponentLink1URL0=680|ComponentLink1Description0=680|Operating Temperature Range0=179|Power Rating0=92|Product0=134|Resistance0=77|Series0=53|Type0=134|Voltage Rating0=100|Brand0=60|Case Code - in0=97|Case Code - mm0=105|Case Height0=85|Case Length0=86|Case Width0=82|Product Category0=112|Standard Pack Qty0=117|RoHS - Mouser0=100|Minimum Order Quantity0=152|Reeling0=62|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 20=182|Description 20=174|Category 20=78|Stock 20=60|Pricing 20=447|ComponentLink2URL0=506|ComponentLink2Description0=506|Capacitance0=85|ESR (Equivalent Series Resistance)0=195|Applications0=93|Ripple Current0=98|Impedance0=79|Lead Spacing0=91|Height - Seated (Max)0=133|Surface Mount Land Size0=150|Mounting Type0=101|ComponentLink3URL0=499|ComponentLink3Description0=499
 [FieldMap1]
 Options=FieldName=Capacitors.Library Ref|TableNameOnly=Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -72,42 +72,56 @@ Options=FieldName=Capacitors.Footprint Path|TableNameOnly=Capacitors|FieldNameOn
 [FieldMap3]
 Options=FieldName=Capacitors.Footprint Ref|TableNameOnly=Capacitors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=Connectors.Library Ref|TableNameOnly=Connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors.Código|TableNameOnly=Capacitors|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=Connectors.Footprint Path|TableNameOnly=Connectors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Capacitors.Library path|TableNameOnly=Capacitors|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=Connectors.Footprint Ref|TableNameOnly=Connectors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuito_Protecao.Código|TableNameOnly=Circuito_Protecao|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=Connectors.Código|TableNameOnly=Connectors|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuito_Protecao.Library path|TableNameOnly=Circuito_Protecao|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=Connectors.Library path|TableNameOnly=Connectors|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuito_Protecao.Library Ref|TableNameOnly=Circuito_Protecao|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=Diode.Código|TableNameOnly=Diode|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuito_Protecao.Footprint Path|TableNameOnly=Circuito_Protecao|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
-Options=FieldName=Diode.Library path|TableNameOnly=Diode|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Circuito_Protecao.Footprint Ref|TableNameOnly=Circuito_Protecao|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap11]
-Options=FieldName=Diode.Library Ref|TableNameOnly=Diode|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors.Library Ref|TableNameOnly=Connectors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap12]
-Options=FieldName=Diode.Footprint Path|TableNameOnly=Diode|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors.Footprint Path|TableNameOnly=Connectors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap13]
-Options=FieldName=Diode.Footprint Ref|TableNameOnly=Diode|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors.Footprint Ref|TableNameOnly=Connectors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap14]
-Options=FieldName=ICs.Código|TableNameOnly=ICs|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors.Código|TableNameOnly=Connectors|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=ICs.Library path|TableNameOnly=ICs|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Connectors.Library path|TableNameOnly=Connectors|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=ICs.Library Ref|TableNameOnly=ICs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diode.Código|TableNameOnly=Diode|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=ICs.Footprint Path|TableNameOnly=ICs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diode.Library path|TableNameOnly=Diode|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=ICs.Footprint Ref|TableNameOnly=ICs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diode.Library Ref|TableNameOnly=Diode|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Resistors.Library Path|TableNameOnly=Resistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diode.Footprint Path|TableNameOnly=Diode|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=Resistors.Library Ref|TableNameOnly=Resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Diode.Footprint Ref|TableNameOnly=Diode|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=Resistors.Código|TableNameOnly=Resistors|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ICs.Código|TableNameOnly=ICs|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=Resistors.Footprint Ref|TableNameOnly=Resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=ICs.Library path|TableNameOnly=ICs|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
+Options=FieldName=ICs.Library Ref|TableNameOnly=ICs|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=ICs.Footprint Path|TableNameOnly=ICs|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=ICs.Footprint Ref|TableNameOnly=ICs|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Resistors.Library Path|TableNameOnly=Resistors|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Resistors.Library Ref|TableNameOnly=Resistors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Resistors.Código|TableNameOnly=Resistors|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Resistors.Footprint Ref|TableNameOnly=Resistors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
 Options=FieldName=Resistors.Footprint Path|TableNameOnly=Resistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
