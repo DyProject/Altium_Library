@@ -19,34 +19,40 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Diode
+LastFocusedTable=Resistors
 [Table1]
 SchemaName=
 TableName=Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=136|Footprint Path0=160|Footprint Ref0=178|Código0=127|Library path0=160|Footprint0=178|PackageReference0=178|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=215|Manufacturer Part Number0=160|RoHS0=92|Description 10=196|Category 10=250|Stock 10=60|Pricing 10=613|Packaging0=90|Capacitance0=85|Tolerance0=72|Voltage Rating0=100|ESR (Equivalent Series Resistance)0=195|Operating Temperature0=143|Type0=48|Applications0=116|Ripple Current0=98|Impedance0=79|Lead Spacing0=93|Size / Dimension0=213|Height - Seated (Max)0=133|Surface Mount Land Size0=213|Mounting Type0=119|Package / Case0=100|ComponentLink1URL0=858|ComponentLink1Description0=858|Rango de Producto0=123|Capacidad0=77|Tolerancia, Capacitancia0=146|Característica Dieléctrico0=148|Tensión Nominal0=109|Tipo de Condensador de Cerámica0=199|Tipo de Empaquetado0=136|Nivel de Sensibilidad a la Humedad (MSL)0=234|Sustancia Extremadamente Preocupante (SVHC)0=265|Anchura Externa0=107|Capacidad, Tolerancia ±0=146|Longitud / Altura Externa0=152|Profundidad Externa0=129|Rango de Temperatura de Trabajo0=197|Terminales del Condensador0=169|ComponentLink2URL0=293|ComponentLink2Description0=293|Voltage - Rated0=103|Temperature Coefficient0=146|Ratings0=62|Thickness (Max)0=102|Features0=87|Lead Style0=74|Voltage Rating - AC0=124|Voltage Rating - DC0=125|Dielectric Material0=115|Termination0=84|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=87|Number of Rows0=109|Row Spacing0=90|Contact Mating Length0=142|Fastening Type0=100|Contact Finish0=97|Contact Finish Thickness0=149|Color0=51|Voltage - Zener (Nom) (Vz)0=156|Power - Max0=86|Impedance (Max) (Zzt)0=133|Current - Reverse Leakage @ Vr0=184|Voltage - Forward (Vf) (Max) @ If0=190|Supplier Device Package0=147|ComponentLink3URL0=242|ComponentLink3Description0=242|Manufacturer Size Code0=146|ComponentLink4URL0=276|ComponentLink4Description0=276|ComponentLink5URL0=243|ComponentLink5Description0=243|Product0=111|Series0=53|Termination Style0=111|Voltage Rating DC0=118|Brand0=54|Case Code - in0=97|Case Code - mm0=105|Case Height0=85|Case Length0=86|Case Width0=82|Class0=49|Dielectric0=70|Maximum Operating Temperature0=195|Minimum Operating Temperature0=194|RoHS - Mouser0=100|Product Status0=98|Minimum Order Quantity0=152|Reeling0=62|ComponentLink6URL0=410|ComponentLink6Description0=410
 [Table2]
 SchemaName=
 TableName=Circuito_Protecao
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Código0=83|Library path0=160|Library Ref0=77|Footprint Path0=160|Footprint Ref0=92|Manufacturer Part Number0=160|Footprint0=91|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|RoHS0=92|Description 10=202|Category 10=97|Stock 10=60|Pricing 10=484|Packaging0=90|Varistor Voltage (Min)0=135|Varistor Voltage (Typ)0=132|Varistor Voltage (Max)0=136|Current - Surge0=102|Number of Circuits0=119|Maximum AC Volts0=118|Maximum DC Volts0=119|Energy0=58|Package / Case0=100|Mounting Type0=101|ComponentLink1URL0=326|ComponentLink1Description0=326|Fuse Type0=210|Current Rating0=99|Voltage Rating - AC0=124|Voltage Rating - DC0=125|Response Time0=99|Breaking Capacity @ Rated Voltage0=205|Melting I²t0=77|Approvals0=74|Operating Temperature0=143|Color0=51|Size / Dimension0=304|DC Cold Resistance0=122|Voltage - Max0=94|Current - Max0=93|Current - Hold (Ih) (Max)0=146|Current - Trip (It)0=107|R Min/Max0=104|Time to Trip0=82
 [Table3]
 SchemaName=
 TableName=Connectors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=157|Footprint Path0=160|Footprint Ref0=153|Código0=76|Library path0=160|Manufacturer Part Number0=160|Footprint0=153|PackageReference0=153|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=173|RoHS0=92|Description 10=309|Stock 10=60|Pricing 10=635|Rated Voltage0=96|Rated Current0=95|Wire Size AWG Min0=122|Wire Size AWG Max0=123|Conductor Area CSA0=127|Pitch Spacing0=92|Wire Connection Method0=154|ComponentLink1URL0=770|ComponentLink1Description0=770|Category 10=143|Connector Type0=177|Gender0=63|Plug/Mating Plug Diameter0=162|Number of Positions/Contacts0=177|Internal Switch(s)0=166|Mounting Type0=206|Termination0=85|Shielding0=72|Features0=67|Color0=51|Voltage - Rated0=103|Current Rating0=99|Contact Material0=108|Contact Material - Plating0=154|Housing Color0=98|Housing Material0=112|Operating Temperature0=143|ComponentLink2URL0=332|ComponentLink2Description0=332|Packaging0=90|Contact Type0=89|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=87|Number of Rows0=109|Row Spacing0=90|Contact Mating Length0=142|Fastening Type0=100|Contact Finish0=97|Contact Finish Thickness0=149|ComponentLink3URL0=293|ComponentLink3Description0=293|Number of Contacts0=126|Specifications0=94|Ingress Protection0=116|ComponentLink4URL0=293|ComponentLink4Description0=293|Capacitance0=85|Tolerance0=72|Temperature Coefficient0=146|Applications0=93|Ratings0=62|Package / Case0=100|Size / Dimension0=201|Height - Seated (Max)0=133|Thickness (Max)0=102|Lead Spacing0=91|Lead Style0=74|ComponentLink5URL0=548|ComponentLink5Description0=548
 [Table4]
 SchemaName=
 TableName=Diode
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Código0=91|Library path0=160|Library Ref0=77|Footprint Path0=160|Footprint Ref0=92|Manufacturer Part Number0=160|Footprint0=75|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=227|RoHS0=115|Description 10=201|Category 10=177|Stock 10=60|Pricing 10=623|Packaging0=90|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io)0=180|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=214|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Capacitance @ Vr, F0=125|Mounting Type0=101|Package / Case0=141|Supplier Device Package0=147|Operating Temperature - Junction0=197|ComponentLink1URL0=731|ComponentLink1Description0=731|Tolerance0=72|Power - Max0=86|Impedance (Max) (Zzt)0=133|Operating Temperature0=143|Diode Configuration0=132|Current - Average Rectified (Io) (per Diode)0=240|Voltage - Zener (Nom) (Vz)0=156|Illumination Color0=116|Lens Color/Style0=105|Brand0=54|Forward Current0=108|Forward Voltage0=109|LED Size0=88|Luminous Intensity0=120|Viewing Angle0=98|Maximum Operating Temperature0=195|Minimum Operating Temperature0=194|Product Category0=112|Standard Pack Qty0=117|Wavelength/Color Temperature0=184|RoHS - Mouser0=100|Minimum Order Quantity0=152|Reeling0=62|ComponentLink2URL0=214|ComponentLink2Description0=214
 [Table5]
 SchemaName=
 TableName=Electromechanical
@@ -77,6 +83,15 @@ TableName=Resistors
 Enabled=True
 UserWhere=0
 UserWhereText=[Código] = '{Código}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library path0=160|Library Ref0=77|Código0=113|Footprint Ref0=92|Footprint Path0=160|Resistance (Ohms)0=116|Footprint0=84|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=215|Manufacturer Part Number0=160|RoHS0=92|Description 10=203|Category 10=78|Stock 10=60|Pricing 10=613|Packaging0=90|Tolerance0=72|Power (Watts)0=94|Composition0=89|Features0=199|Temperature Coefficient0=146|Operating Temperature0=143|Package / Case0=100|Supplier Device Package0=147|Size / Dimension0=201|Height0=87|Number of Terminations0=147|ComponentLink1URL0=680|ComponentLink1Description0=680|Operating Temperature Range0=179|Power Rating0=92|Product0=63|Series0=53|Type0=46|Voltage Rating0=100|Brand0=54|Case Code - in0=97|Case Code - mm0=105|Case Height0=85|Case Length0=86|Case Width0=82|Product Category0=112|Standard Pack Qty0=117|RoHS - Mouser0=100|Minimum Order Quantity0=152|Reeling0=62|Supplier 20=75|Supplier Part Number 20=142|Manufacturer 20=182|Description 20=174|Category 20=78|Stock 20=60|Pricing 20=447|ComponentLink2URL0=506|ComponentLink2Description0=506|Capacitance0=85|ESR (Equivalent Series Resistance)0=195|Applications0=93|Ripple Current0=98|Impedance0=79|Lead Spacing0=91|Height - Seated (Max)0=133|Surface Mount Land Size0=150|Mounting Type0=101|ComponentLink3URL0=499|ComponentLink3Description0=499
+[Table10]
+SchemaName=
+TableName=Transducers
+Enabled=True
+UserWhere=0
+UserWhereText=
 [FieldMap1]
 Options=FieldName=Capacitors.Library Ref|TableNameOnly=Capacitors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -183,3 +198,15 @@ Options=FieldName=Resistors.Footprint Ref|TableNameOnly=Resistors|FieldNameOnly=
 Options=FieldName=Resistors.Footprint Path|TableNameOnly=Resistors|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap53]
 Options=FieldName=Resistors.Resistance (Ohms)|TableNameOnly=Resistors|FieldNameOnly=Resistance (Ohms)|FieldType=1|ParameterName=Resistance|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Transducers.Código|TableNameOnly=Transducers|FieldNameOnly=Código|FieldType=0|ParameterName=Código|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Transducers.Library path|TableNameOnly=Transducers|FieldNameOnly=Library path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Transducers.Library Ref|TableNameOnly=Transducers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Transducers.Footprint Path|TableNameOnly=Transducers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Transducers.Footprint Ref|TableNameOnly=Transducers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Transducers.Manufacturer Part Number|TableNameOnly=Transducers|FieldNameOnly=Manufacturer Part Number|FieldType=1|ParameterName=ManufacturerPartNumber|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
