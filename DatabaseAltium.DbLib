@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Connectors
+LastFocusedTable=Diode
 [Table1]
 SchemaName=
 TableName=Capacitors
@@ -38,15 +38,15 @@ TableName=Connectors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=157|Footprint Path0=160|Footprint Ref0=130|Código0=76|Library path0=160|Manufacturer Part Number0=160|Footprint0=130|PackageReference0=130|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=173|RoHS0=92|Description 10=309|Stock 10=60|Pricing 10=635|Rated Voltage0=96|Rated Current0=95|Wire Size AWG Min0=122|Wire Size AWG Max0=123|Conductor Area CSA0=127|Pitch Spacing0=92|Wire Connection Method0=154|ComponentLink1URL0=776|ComponentLink1Description0=776|Category 10=143|Connector Type0=177|Gender0=63|Plug/Mating Plug Diameter0=162|Number of Positions/Contacts0=177|Internal Switch(s)0=166|Mounting Type0=206|Termination0=85|Shielding0=72|Features0=67|Color0=51|Voltage - Rated0=103|Current Rating0=99|Contact Material0=108|Contact Material - Plating0=154|Housing Color0=98|Housing Material0=112|Operating Temperature0=143|ComponentLink2URL0=332|ComponentLink2Description0=332|Packaging0=90|Contact Type0=89|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=87|Number of Rows0=109|Row Spacing0=90|Contact Mating Length0=142|Fastening Type0=100|Contact Finish0=97|Contact Finish Thickness0=149|ComponentLink3URL0=293|ComponentLink3Description0=293|Number of Contacts0=126|Specifications0=94|Ingress Protection0=116|ComponentLink4URL0=293|ComponentLink4Description0=293|Capacitance0=85|Tolerance0=72|Temperature Coefficient0=146|Applications0=93|Ratings0=62|Package / Case0=100|Size / Dimension0=201|Height - Seated (Max)0=133|Thickness (Max)0=102|Lead Spacing0=91|Lead Style0=74|ComponentLink5URL0=548|ComponentLink5Description0=548|Rango de Producto0=130|Tipo de Terminación del Contacto0=195|Género0=61|Espaciado, Paso0=105|Contacto, Chapado0=123|Contacto, Material0=118|Contacto, Terminación0=138|Espaciado de Cable0=123|Imflamabilidad Nominal0=145|Intensidad Nominal0=124|Material0=143|Método de Terminación0=145|Resisitencia de Contacto0=149|Resistencia de Aislamiento0=159|ComponentLink6URL0=868|ComponentLink6Description0=868|ComponentLink7URL0=205|ComponentLink7Description0=205|ComponentLink8URL0=547|ComponentLink8Description0=547|Supplier 20=75|Supplier Part Number 20=142|ComponentLink9URL0=131|Accessory Type0=100|Contact Plating0=100
 [Table4]
 SchemaName=
 TableName=Diode
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=Código0=Up
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Código0=91|Library path0=160|Library Ref0=77|Footprint Path0=160|Footprint Ref0=92|Manufacturer Part Number0=160|Footprint0=74|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=227|RoHS0=115|Description 10=201|Category 10=177|Stock 10=60|Pricing 10=623|Packaging0=90|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io)0=180|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=214|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Capacitance @ Vr, F0=125|Mounting Type0=101|Package / Case0=141|Supplier Device Package0=147|Operating Temperature - Junction0=197|ComponentLink1URL0=731|ComponentLink1Description0=731|Tolerance0=72|Power - Max0=86|Impedance (Max) (Zzt)0=133|Operating Temperature0=143|Diode Configuration0=132|Current - Average Rectified (Io) (per Diode)0=240|Voltage - Zener (Nom) (Vz)0=156|Illumination Color0=116|Lens Color/Style0=105|Brand0=54|Forward Current0=108|Forward Voltage0=109|LED Size0=88|Luminous Intensity0=120|Viewing Angle0=98|Maximum Operating Temperature0=195|Minimum Operating Temperature0=194|Product Category0=112|Standard Pack Qty0=117|Wavelength/Color Temperature0=184|RoHS - Mouser0=100|Minimum Order Quantity0=152|Reeling0=62|ComponentLink2URL0=214|ComponentLink2Description0=214|Voltage - Peak Reverse (Max)0=169|Current - DC Forward (If) (Max)0=179
 [Table5]
 SchemaName=
 TableName=Electromechanical
