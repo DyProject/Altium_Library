@@ -1,0 +1,17 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('User Library-Vishay 146 CTI 1616.STEP',
+    '2015-07-30T15:21:36',
+    ( 'Windows User' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2015',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+ENDSEC;
+END-ISO-10303-21;
