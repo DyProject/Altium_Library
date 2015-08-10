@@ -19,13 +19,16 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Miscellaneous
+LastFocusedTable=ICs
 [Table1]
 SchemaName=
 TableName=Capacitors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=136|Footprint Path0=160|Footprint Ref0=178|Código0=131|Library path0=160|Footprint0=178|PackageReference0=178|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=215|Manufacturer Part Number0=160|RoHS0=92|Description 10=196|Category 10=250|Stock 10=60|Pricing 10=613|Packaging0=90|Capacitance0=85|Tolerance0=72|Voltage Rating0=100|ESR (Equivalent Series Resistance)0=195|Operating Temperature0=143|Type0=48|Applications0=116|Ripple Current0=98|Impedance0=79|Lead Spacing0=93|Size / Dimension0=213|Height - Seated (Max)0=133|Surface Mount Land Size0=213|Mounting Type0=119|Package / Case0=100|ComponentLink1URL0=858|ComponentLink1Description0=858|Rango de Producto0=123|Capacidad0=77|Tolerancia, Capacitancia0=146|Característica Dieléctrico0=148|Tensión Nominal0=109|Tipo de Condensador de Cerámica0=199|Tipo de Empaquetado0=136|Nivel de Sensibilidad a la Humedad (MSL)0=234|Sustancia Extremadamente Preocupante (SVHC)0=265|Anchura Externa0=107|Capacidad, Tolerancia ±0=146|Longitud / Altura Externa0=152|Profundidad Externa0=129|Rango de Temperatura de Trabajo0=197|Terminales del Condensador0=169|ComponentLink2URL0=293|ComponentLink2Description0=293|Voltage - Rated0=103|Temperature Coefficient0=146|Ratings0=62|Thickness (Max)0=102|Features0=87|Lead Style0=74|Voltage Rating - AC0=124|Voltage Rating - DC0=125|Dielectric Material0=115|Termination0=84|Number of Positions0=128|Number of Positions Loaded0=169|Pitch0=87|Number of Rows0=109|Row Spacing0=90|Contact Mating Length0=142|Fastening Type0=100|Contact Finish0=97|Contact Finish Thickness0=149|Color0=51|Voltage - Zener (Nom) (Vz)0=156|Power - Max0=86|Impedance (Max) (Zzt)0=133|Current - Reverse Leakage @ Vr0=184|Voltage - Forward (Vf) (Max) @ If0=190|Supplier Device Package0=147|ComponentLink3URL0=242|ComponentLink3Description0=242|Manufacturer Size Code0=146|ComponentLink4URL0=276|ComponentLink4Description0=276|ComponentLink5URL0=243|ComponentLink5Description0=243|Product0=111|Series0=53|Termination Style0=111|Voltage Rating DC0=118|Brand0=54|Case Code - in0=97|Case Code - mm0=105|Case Height0=85|Case Length0=86|Case Width0=82|Class0=49|Dielectric0=70|Maximum Operating Temperature0=195|Minimum Operating Temperature0=194|RoHS - Mouser0=100|Product Status0=98|Minimum Order Quantity0=152|Reeling0=62|ComponentLink6URL0=410|ComponentLink6Description0=410
 [Table2]
 SchemaName=
 TableName=Circuito_Protecao
@@ -44,9 +47,6 @@ TableName=Diode
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Código0=91|Library path0=160|Library Ref0=87|Footprint Path0=160|Footprint Ref0=92|Manufacturer Part Number0=160|Footprint0=74|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=227|RoHS0=115|Description 10=207|Category 10=177|Stock 10=60|Pricing 10=623|Packaging0=90|Diode Type0=80|Voltage - DC Reverse (Vr) (Max)0=180|Current - Average Rectified (Io)0=180|Voltage - Forward (Vf) (Max) @ If0=190|Speed0=214|Reverse Recovery Time (trr)0=157|Current - Reverse Leakage @ Vr0=184|Capacitance @ Vr, F0=125|Mounting Type0=101|Package / Case0=141|Supplier Device Package0=147|Operating Temperature - Junction0=197|ComponentLink1URL0=731|ComponentLink1Description0=731|Tolerance0=72|Power - Max0=86|Impedance (Max) (Zzt)0=133|Operating Temperature0=143|Diode Configuration0=132|Current - Average Rectified (Io) (per Diode)0=240|Voltage - Zener (Nom) (Vz)0=156|Illumination Color0=116|Lens Color/Style0=105|Brand0=54|Forward Current0=108|Forward Voltage0=109|LED Size0=88|Luminous Intensity0=120|Viewing Angle0=98|Maximum Operating Temperature0=195|Minimum Operating Temperature0=194|Product Category0=112|Standard Pack Qty0=117|Wavelength/Color Temperature0=184|RoHS - Mouser0=100|Minimum Order Quantity0=152|Reeling0=62|ComponentLink2URL0=214|ComponentLink2Description0=214|Voltage - Peak Reverse (Max)0=169|Current - DC Forward (If) (Max)0=179
 [Table5]
 SchemaName=
 TableName=Electromechanical
@@ -61,7 +61,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Código0=168|Library path0=160|Library Ref0=168|Footprint Path0=160|Footprint Ref0=202|Manufacturer Part Number0=160|Footprint0=202|PackageReference0=202|Supplier 10=112|Supplier Part Number 10=142|Manufacturer 10=262|RoHS0=115|Description 10=428|Category 10=177|Stock 10=60|Pricing 10=623|Packaging0=90|Regulator Topology0=125|Voltage - Output0=111|Current - Output0=110|Voltage - Dropout (Typical)0=160|Number of Regulators0=137|Voltage - Input0=101|Current - Limit (Min)0=125|Operating Temperature0=143|Mounting Type0=101|Package / Case0=163|Supplier Device Package0=147|ComponentLink1URL0=412|ComponentLink1Description0=412|Output Current0=103|Linear Regulator Case Style0=162|Operating Temperature Min0=166|Input Voltage Min0=117|Input Voltage Max0=118|Core Processor0=99|Core Size0=70|Speed0=55|Connectivity0=93|Peripherals0=195|Number of I/O0=97|Program Memory Size0=133|Program Memory Type0=136|EEPROM Size0=90|RAM Size0=70|Voltage - Supply (Vcc/Vdd)0=159|Data Converters0=105|Oscillator Type0=98|ComponentLink2URL0=272|ComponentLink2Description0=272|Protocol0=66|Function0=113|Interface0=93|Standards0=75|Voltage - Supply0=108|Current - Supply0=107|ComponentLink3URL0=404|ComponentLink3Description0=404|Technology0=111|Type0=93|Isolated Power0=99|Number of Channels0=129|Inputs - Side 1/Side 20=132|Channel Type0=92|Voltage - Isolation0=118|Common Mode Transient Immunity (Min)0=231|Data Rate0=73|Propagation Delay tpLH / tpHL (Max)0=209|Pulse Width Distortion (Max)0=170|Rise / Fall Time (Typ)0=124|ComponentLink4URL0=238|ComponentLink4Description0=238|Transistor Type0=99|Current - Collector (Ic) (Max)0=165|Voltage - Collector Emitter Breakdown (Max)0=250|Vce Saturation (Max) @ Ib, Ic0=169|Current - Collector Cutoff (Max)0=184|DC Current Gain (hFE) (Min) @ Ic, Vce0=213|Power - Max0=86|Frequency - Transition0=137|ComponentLink5URL0=246|ComponentLink5Description0=246|Frequency0=76|Data Rate (Max)0=103|Modulation or Protocol0=148|Applications0=93|Power - Output0=103|Sensitivity0=74|Current - Receiving0=121|Current - Transmitting0=136|Data Interface0=110|Memory Size0=127|Antenna Connector0=124|ComponentLink6URL0=399|ComponentLink6Description0=399|Product0=63|Series0=63|Brand0=54|Data RAM Size0=97|Data RAM Type0=100|Data ROM Size0=99|Data ROM Type0=102|Interface Type0=94|Mounting Style0=102|Number of I/Os0=102|ADC Resolution0=104|Core0=47|Data Bus Width0=104|Maximum Clock Frequency0=159|Maximum Operating Temperature0=195|Minimum Operating Temperature0=194|Number of ADC Channels0=154|Operating Supply Voltage0=157|Processor Series0=105|Product Category0=123|Standard Pack Qty0=117|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Tradename0=79|RoHS - Mouser0=100|Minimum Order Quantity0=152|Reeling0=62|Format - Memory0=110|Memory Type0=90
+BrowserOrder_Visible=Código0=168|Library path0=160|Library Ref0=168|Footprint Path0=160|Footprint Ref0=202|Manufacturer Part Number0=160|Footprint0=202|PackageReference0=202|Supplier 10=112|Supplier Part Number 10=142|Manufacturer 10=262|RoHS0=115|Description 10=428|Category 10=177|Stock 10=60|Pricing 10=623|Packaging0=90|Regulator Topology0=125|Voltage - Output0=111|Current - Output0=110|Voltage - Dropout (Typical)0=160|Number of Regulators0=137|Voltage - Input0=101|Current - Limit (Min)0=125|Operating Temperature0=143|Mounting Type0=101|Package / Case0=163|Supplier Device Package0=147|ComponentLink1URL0=733|ComponentLink1Description0=733|Output Current0=103|Linear Regulator Case Style0=162|Operating Temperature Min0=166|Input Voltage Min0=117|Input Voltage Max0=118|Core Processor0=99|Core Size0=70|Speed0=55|Connectivity0=113|Peripherals0=223|Number of I/O0=97|Program Memory Size0=133|Program Memory Type0=136|EEPROM Size0=90|RAM Size0=70|Voltage - Supply (Vcc/Vdd)0=159|Data Converters0=105|Oscillator Type0=98|ComponentLink2URL0=272|ComponentLink2Description0=272|Protocol0=66|Function0=113|Interface0=93|Standards0=75|Voltage - Supply0=108|Current - Supply0=107|ComponentLink3URL0=404|ComponentLink3Description0=404|Technology0=111|Type0=93|Isolated Power0=99|Number of Channels0=129|Inputs - Side 1/Side 20=132|Channel Type0=92|Voltage - Isolation0=118|Common Mode Transient Immunity (Min)0=231|Data Rate0=73|Propagation Delay tpLH / tpHL (Max)0=209|Pulse Width Distortion (Max)0=170|Rise / Fall Time (Typ)0=124|ComponentLink4URL0=238|ComponentLink4Description0=238|Transistor Type0=99|Current - Collector (Ic) (Max)0=165|Voltage - Collector Emitter Breakdown (Max)0=250|Vce Saturation (Max) @ Ib, Ic0=169|Current - Collector Cutoff (Max)0=184|DC Current Gain (hFE) (Min) @ Ic, Vce0=213|Power - Max0=86|Frequency - Transition0=137|ComponentLink5URL0=246|ComponentLink5Description0=246|Frequency0=76|Data Rate (Max)0=103|Modulation or Protocol0=148|Applications0=93|Power - Output0=103|Sensitivity0=74|Current - Receiving0=121|Current - Transmitting0=136|Data Interface0=110|Memory Size0=127|Antenna Connector0=124|ComponentLink6URL0=399|ComponentLink6Description0=399|Product0=63|Series0=63|Brand0=54|Data RAM Size0=97|Data RAM Type0=100|Data ROM Size0=99|Data ROM Type0=102|Interface Type0=94|Mounting Style0=102|Number of I/Os0=102|ADC Resolution0=104|Core0=47|Data Bus Width0=104|Maximum Clock Frequency0=159|Maximum Operating Temperature0=195|Minimum Operating Temperature0=194|Number of ADC Channels0=154|Operating Supply Voltage0=157|Processor Series0=105|Product Category0=123|Standard Pack Qty0=117|Supply Voltage - Max0=132|Supply Voltage - Min0=131|Tradename0=79|RoHS - Mouser0=100|Minimum Order Quantity0=152|Reeling0=62|Format - Memory0=110|Memory Type0=90|Dimensions0=100|Line of Sight Range0=100|Output Power0=100|Antenna Connector Type0=100|Supply Current Receiving0=100|Supply Current Transmitting0=100|Product Status0=100
 [Table7]
 SchemaName=
 TableName=Inductors
@@ -74,18 +74,12 @@ TableName=Miscellaneous
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Código0=61|Library path0=84|Library Ref0=77|Footprint0=72|Footprint Path0=98|Footprint Ref0=92|PackageReference0=116|Supplier 10=100|Supplier Part Number 10=100|Manufacturer 10=100|Manufacturer Part Number0=100|RoHS0=100|Description 10=100|Category 10=100|Stock 10=100|Pricing 10=100|Board Type0=100|Type0=100|Core Processor0=100|Operating System0=100|Platform0=100|For Use With/Related Products0=100|Mounting Type0=100|Contents0=100|ComponentLink1URL0=100|ComponentLink1Description0=100
 [Table9]
 SchemaName=
 TableName=Oscillators
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=Footprint Ref0=Up
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Código0=111|Library path0=160|Library Ref0=77|Footprint Path0=160|Footprint Ref0=92|Manufacturer Part Number0=160|Footprint0=72|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|RoHS0=92|Description 10=176|Category 10=127|Stock 10=60|Pricing 10=315|Packaging0=76|Type0=68|Frequency0=76|Frequency Stability0=120|Frequency Tolerance0=128|Load Capacitance0=113|ESR (Equivalent Series Resistance)0=195|Operating Mode0=109|Operating Temperature0=143|Ratings0=62|Mounting Type0=101|Package / Case0=99|Size / Dimension0=207|Height0=87|ComponentLink1URL0=240|ComponentLink1Description0=240|Dimensions0=100|Operating Temperature Range0=100|Series0=100|Termination Style0=100|Tolerance0=100|Brand0=100|ESR0=100|Mounting Style0=100|Case Height0=100|Case Length0=100|Case Width0=100|Product Category0=100|Standard Pack Qty0=100|RoHS - Mouser0=100|Minimum Order Quantity0=100|Reeling0=100
 [Table10]
 SchemaName=
 TableName=Resistors
@@ -98,9 +92,6 @@ TableName=Transducers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Código0=61|Library path0=160|Library Ref0=77|Footprint Path0=160|Footprint Ref0=92|Manufacturer Part Number0=160|Footprint0=72|PackageReference0=116|Supplier 10=75|Supplier Part Number 10=142|Manufacturer 10=102|RoHS0=92|Description 10=215|Category 10=115|Stock 10=60|Pricing 10=629|Packaging0=76|For Measuring0=98|Sensor Type0=130|Current - Sensing0=132|Number of Channels0=129|Output0=111|Sensitivity0=74|Frequency0=76|Linearity0=66|Accuracy0=67|Voltage - Supply0=108|Response Time0=99|Current - Supply (Max)0=137|Operating Temperature0=143|Polarization0=84|Mounting Type0=101|Package / Case0=99|ComponentLink1URL0=434|ComponentLink1Description0=434|Output Type0=87
 [Table12]
 SchemaName=
 TableName=Transistors
